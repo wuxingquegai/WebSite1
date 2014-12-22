@@ -14,12 +14,14 @@
         body {
             height: 100%;
             margin: 0px;
-            padding: 0px
+            padding: 0px;
         }
+
         #container {
             width: 100%;
-            height: 100%
+            height: 100%;
         }
+
         #panel {
             position: absolute;
             top: 5px;
@@ -36,22 +38,21 @@
 <body>
     <div id="panel">
         <b>起点: </b>
-        <input id="start" type="textbox" style="width:100px" value="起点">
+        <input id="start" type="text" style="width: 100px" placeholder="起点">
 
         <b>终点: </b>
-        <input id="end" type="textbox" style="width:100px" value="终点">
+        <input id="end" type="text" style="width: 100px" placeholder="终点">
 
         <b>换乘策略：</b>
-        <select id="policy" onchange="search();">
+        <select id="policy">
             <option value="LEAST_TIME">较快捷</option>
             <option value="LEAST_TRANSFER">少换乘</option>
             <option value="LEAST_WALKING">少步行</option>
             <option value="NO_SUBWAY">不坐地铁</option>
         </select>
         <input type="button" value="搜索" onclick="search()">
-    <div>
-    <div id="container" style="width:603px;height:300px"></div>
-    <div style='width: 500px; height: auto' id="infoDiv"></div>
+        <div id="container" style="width: 603px; height: 300px"></div>
+        <div style='width: 500px; height: auto' id="infoDiv"></div>
     </div>
     <script>
         var center = new qq.maps.LatLng(39.916527, 116.397128);
