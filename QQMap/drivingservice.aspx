@@ -11,13 +11,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no" />
     <script charset="utf-8" src="http://map.qq.com/api/js?v=2.exp"></script>
     <style type="text/css">
-
-
-
-
-
-
-
         html,
         body {
             height: 100%;

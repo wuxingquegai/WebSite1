@@ -3,3 +3,9 @@ D:\我的资料库\Documents\Visual Studio 2012\Projects\WebSite1\QQMap\bin\QQMa
 D:\我的资料库\Documents\Visual Studio 2012\Projects\WebSite1\QQMap\obj\Debug\QQMap.csprojResolveAssemblyReference.cache
 D:\我的资料库\Documents\Visual Studio 2012\Projects\WebSite1\QQMap\obj\Debug\QQMap.dll
 D:\我的资料库\Documents\Visual Studio 2012\Projects\WebSite1\QQMap\obj\Debug\QQMap.pdb
+F:\GitSourceCode\WebSite1\QQMap\bin\QQMap.dll.config
+F:\GitSourceCode\WebSite1\QQMap\bin\QQMap.dll
+F:\GitSourceCode\WebSite1\QQMap\bin\QQMap.pdb
+F:\GitSourceCode\WebSite1\QQMap\obj\Debug\QQMap.csprojResolveAssemblyReference.cache
+F:\GitSourceCode\WebSite1\QQMap\obj\Debug\QQMap.dll
+F:\GitSourceCode\WebSite1\QQMap\obj\Debug\QQMap.pdb
