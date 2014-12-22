@@ -1,0 +1,5 @@
+D:\我的资料库\Documents\Visual Studio 2012\Projects\WebSite1\QQMap\bin\QQMap.dll
+D:\我的资料库\Documents\Visual Studio 2012\Projects\WebSite1\QQMap\bin\QQMap.pdb
+D:\我的资料库\Documents\Visual Studio 2012\Projects\WebSite1\QQMap\obj\Debug\QQMap.csprojResolveAssemblyReference.cache
+D:\我的资料库\Documents\Visual Studio 2012\Projects\WebSite1\QQMap\obj\Debug\QQMap.dll
+D:\我的资料库\Documents\Visual Studio 2012\Projects\WebSite1\QQMap\obj\Debug\QQMap.pdb
