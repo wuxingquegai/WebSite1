@@ -37,13 +37,13 @@
 <body>
     <div id="panel">
          <b>起点: </b>
-        <input id="start" type="textbox" style="width:100px" value="起点">
+        <input id="start" type="text" style="width:100px" placeholder="起点">
 
         <b>终点: </b>
-        <input id="end" type="textbox" style="width:100px" value="终点">
+        <input id="end" type="text" style="width:100px" placeholder="终点">
 
         <b>计算策略：</b>
-        <select id="policy" onchange="search();">
+        <select id="policy">
             <option value="LEAST_TIME">最少时间</option>
             <option value="LEAST_DISTANCE">最短距离</option>
             <option value="AVOID_HIGHWAYS">避开高速</option>
@@ -51,6 +51,7 @@
             <option value="PREDICT_TRAFFIC">预测路况</option>
         </select>
         <input type="button" value="搜索" onclick="search()">
+                <br/>
     <div id="container" style="width:603px;height:300px"></div>
     <div style='width: 500px; height: auto' id="infoDiv"></div>
     </div>

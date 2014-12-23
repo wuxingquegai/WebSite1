@@ -26,6 +26,27 @@
             margin-top: 10px;
             overflow: hidden;
         }
+        body {
+            height: 100%;
+            margin: 0px;
+            padding: 0px;
+        }
+
+        #container {
+            width: 100%;
+            height: 100%;
+        }
+
+        #panel {
+            position: absolute;
+            top: 5px;
+            left: 40%;
+            margin-left: -180px;
+            z-index: 5;
+            background-color: #fff;
+            padding: 5px;
+            border: 1px solid #999;
+        }
     </style>
     <script charset="utf-8" src="http://map.qq.com/api/js?v=2.exp"></script>
 
@@ -43,6 +64,9 @@
 
             //设置Poi检索服务，用于本地检索、周边检索
             searchService = new qq.maps.SearchService({
+                map: map,
+                //展现结果
+                panel: document.getElementById('infoDiv'),
                 //检索成功的回调函数
                 complete: function (results) {
                     //设置回调函数参数
@@ -116,14 +140,14 @@
             //searchService.searchInBounds(keyword, region);
 
         }
+      
     </script>
-    <div>
-        <input id="keyword" type="textbox" style="width:500px" value="请输入您要搜索的位置">
+    <div id="panel">
+        <input id="keyword" type="text" style="width:560px" placeholder="请输入您要搜索的位置">
         <input type="button" value="搜索" onclick="searchKeyword()">
-
+        <div id="container" style="width:603px;height:300px"></div>
+            <div style='width: 500px; height: auto' id="infoDiv"></div>
     </div>
-    <div id="container" style="width:603px;height:300px"></div>
 </body>
-
 </html>
 

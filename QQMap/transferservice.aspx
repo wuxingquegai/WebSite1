@@ -51,6 +51,7 @@
             <option value="NO_SUBWAY">不坐地铁</option>
         </select>
         <input type="button" value="搜索" onclick="search()">
+        <br/>
         <div id="container" style="width: 603px; height: 300px"></div>
         <div style='width: 500px; height: auto' id="infoDiv"></div>
     </div>

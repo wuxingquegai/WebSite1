@@ -9,3 +9,8 @@ F:\GitSourceCode\WebSite1\QQMap\bin\QQMap.pdb
 F:\GitSourceCode\WebSite1\QQMap\obj\Debug\QQMap.csprojResolveAssemblyReference.cache
 F:\GitSourceCode\WebSite1\QQMap\obj\Debug\QQMap.dll
 F:\GitSourceCode\WebSite1\QQMap\obj\Debug\QQMap.pdb
+D:\WebSite1\QQMap\bin\QQMap.dll
+D:\WebSite1\QQMap\bin\QQMap.pdb
+D:\WebSite1\QQMap\obj\Debug\QQMap.csprojResolveAssemblyReference.cache
+D:\WebSite1\QQMap\obj\Debug\QQMap.dll
+D:\WebSite1\QQMap\obj\Debug\QQMap.pdb
