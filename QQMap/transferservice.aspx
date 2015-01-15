@@ -75,7 +75,7 @@
             //设置乘坐方案
             transferService.setPolicy(qq.maps.TransferPolicy[policy]);
             //设置公交换乘的区域范围
-            transferService.setLocation("长春");
+            //transferService.setLocation("长春");
             //设置回调函数
             transferService.setComplete(function (result) {
                 //如果service返回的结果类型为qq.maps.ServiceResultType.MULTI_DESTINATION（起点或终点位置不唯一），弹出提示信息
