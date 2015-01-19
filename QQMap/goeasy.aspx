@@ -12,16 +12,18 @@
     <meta name="keywords" content="企业架构，企业架构，运营架构，EA，云服务平台，云服务平台，微信门户，微信门户，移动业务，移动业务，全流程，全流程，产业链云服务平台，产业链云服务平台，产业链云服务平台">   
     <link href="css/goeasy.css" rel="stylesheet">
     <link href="css/foucs.css" rel="stylesheet">
-    <script src="js/jquery-1.9.1.min.js" type="text/javascript"></script>
+    <script src="images/jquery-1.9.1.min.js" type="text/javascript"></script>
 
     <link rel="stylesheet" type="text/css" href="css/lrtk.css">
 
 <script type="text/javascript" name="baidu-tc-cerfication" src="http://apps.bdimg.com/cloudaapi/lightapp.js#b6caeb93b62e905077ac71b93ce54a9a"></script>
 <script type="text/javascript">window.bd && bd._qdc && bd._qdc.init({ app_id: '258ab025388dff559730e8bb' });</script>
 
-    <script type="text/javascript" charset="utf-8" src="js/lrscroll.js"></script>
-    <script type="text/javascript" src="js/jquery.roundabout.min.js"></script>
-    <script type="text/javascript" src="js/jquery.easing.1.3.js"></script>
+
+
+    <script type="text/javascript" charset="utf-8" src="images/lrscroll.js"></script>
+    <script type="text/javascript" src="images/jquery.roundabout.min.js"></script>
+    <script type="text/javascript" src="images/jquery.easing.1.3.js"></script>
     <script type="text/javascript">
         $(document).ready(function () {
             var type = request('type');
@@ -96,6 +98,143 @@
                             <img src="images/4.png" alt="" /></a></li>
 
                     </ul>
-                </div>
+                </div>    <br \>    <br \>    <br \>    <br \>    <br \>    <br \>    <br \>    <br \>    <br \>    <br \>    <br \>    <br \>    <br \>    <br \>    <br \>    <br \>    <br \>    <br \>    <br \>    <br \>    <br \>    <br \>    <br \>    <br \>    <br \>    <br \>    <br \>    <br \>    <br \>            <div class="bottomjuzhong" style="left: 0px; padding-top: 50px; height: 210px">
+            <div style="border: 0px solid #FF6600; width: 1108px; height: 200px">
+                <div id="featureContainer" class="featureBox">
+                    <div id="feature">
+                        <div id="block">
+                            <div id="botton-scroll">
+                                <ul class="featureUL">
+                                    <li class="featureBox">
+                                        <div class="box">
+                                            <table border="0" style="margin: 0px; background-color: #F78D1F;">
+                                                <tr style="border: 0px">
+                                                    <td style="border: 0px">
+                                                      <a href="ptdyfm.html"><img alt="" border="0px" src="bottomimages/bt云服务平台.png" width="250" height="173"></a></td>
+                                                </tr>
+                                            </table>
+                                        </div>
+                                    </li>
+                                    <li class="featureBox">
+                                        <div class="box">
+                                            <table border="0" style="margin: 0px; background-color: #F78D1F;">
+                                                <tr style="border: 0px">
+                                                    <td style="border: 0px">
+                                                      <a href="yyptgsfm.html"><img alt="" border="0px" src="bottomimages/bt云服务运营平台.png" width="250" height="173"></a></td>
+                                                </tr>
+                                            </table>
+                                        </div>
+                                    </li>
+                                    <li class="featureBox">
+                                        <div class="box">
+                                            <table border="0" style="margin: 0px; background-color: #F78D1F;">
+                                                <tr style="border: 0px">
+                                                    <td style="border: 0px">
+                                                      <a href="pzptgsfm.html"><img alt="" border="0px" src="bottomimages/bt云服务架构平台.png" width="250" height="173"></a></td>
+                                                </tr>
+
+                                            </table>
+                                        </div>
+                                    </li>
+                                    <li class="featureBox">
+                                        <div class="box">
+                                            <table border="0" style="margin: 0px; background-color: #F78D1F;">
+                                                <tr style="border: 0px">
+                                                    <td style="border: 0px">
+                                                      <a href="gtptgsfm.html"><img alt="" border="0px" src="bottomimages/bt云服务沟通平台.png" width="250" height="173"></a></td>
+                                                </tr>
+                                            </table>
+                                        </div>
+                                    </li>
+                                    <li class="featureBox">
+                                        <div class="box">
+                                            <table border="0" style="margin: 0px; background-color: #F78D1F;">
+                                                <tr style="border: 0px">
+                                                    <td style="border: 0px">
+                                                      <a href="wxptfm.html"><img alt="" border="0px" src="bottomimages/bt微信平台.png" width="250" height="173"></a></td>
+                                                </tr>
+
+                                            </table>
+                                        </div>
+                                    </li>
+                                    <li class="featureBox">
+                                        <div class="box">
+                                            <table border="0" style="margin: 0px; background-color: #F78D1F;">
+                                                <tr style="border: 0px">
+                                                    <td style="border: 0px">
+                                                      <a href="wxmh_zdgk.html"><img alt="" border="0px" src="bottomimages/bt终端.png" width="250" height="173"></a></td>
+                                                </tr>
+                                            </table>
+                                        </div>
+                                    </li>
+                                    <li class="featureBox">
+                                        <div class="box">
+                                            <table border="0" style="margin: 0px; background-color: #F78D1F;">
+                                                <tr style="border: 0px">
+                                                    <td style="border: 0px">
+                                                      <a href="wxmh_khgx.html"><img alt="" border="0px" src="bottomimages/bt客户.png" width="250" height="173"></a></td>
+                                                </tr>
+                                            </table>
+                                        </div>
+                                    </li>
+                                    <li class="featureBox">
+                                        <div class="box">
+                                            <table border="0" style="margin: 0px; background-color: #F78D1F;">
+                                                <tr style="border: 0px">
+                                                    <td style="border: 0px">
+                                                      <a href="wxmh_sfxz.html"><img alt="" border="0px" src="bottomimages/bt三方.png" width="250" height="173"></a></td>
+                                                </tr>
+                                            </table>
+                                        </div>
+                                    </li>
+                                    <li class="featureBox">
+                                        <div class="box">
+                                            <table border="0" style="margin: 0px; background-color: #F78D1F;">
+                                                <tr style="border: 0px">
+                                                    <td style="border: 0px">
+                                                      <a href="wxmh_cyl.html"><img alt="" border="0px" src="bottomimages/bt产业链.png" width="250" height="173"></a></td>
+                                                </tr>
+                                            </table>
+                                        </div>
+                                    </li>
+                                    <li class="featureBox">
+                                        <div class="box">
+                                            <table border="0" style="margin: 0px; background-color: #F78D1F;">
+                                                <tr style="border: 0px">
+                                                    <td style="border: 0px">
+                                                      <a href="ywys.html"><img alt="" border="0px" src="bottomimages/bt业务运营解决方案.png" width="250" height="173"></a></td>
+                                                </tr>
+                                            </table>
+                                        </div>
+                                    </li>
+                                    <li class="featureBox">
+                                        <div class="box">
+                                            <table border="0" style="margin: 0px; background-color: #F78D1F;">
+                                                <tr style="border: 0px">
+                                                    <td style="border: 0px">
+                                                      <a href="pxfwll.html"><img alt="" border="0px" src="bottomimages/bt管理服务方案.png" width="250" height="173"></a></td>
+                                                </tr>
+                                            </table>
+                                        </div>
+                                    </li>
+                                    <li class="featureBox">
+                                        <div class="box">
+                                            <table border="0" style="margin: 0px; background-color: #F78D1F;">
+                                                <tr style="border: 0px">
+                                                    <td style="border: 0px">
+                                                      <a href="khal.html"><img alt="" border="0px" src="bottomimages/bt客户案例.png" width="250" height="173"></a></td>
+                                                </tr>
+                                            </table>
+                                        </div>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                        <a class="prevgo" href="javascript:void();">向前</a>
+                        <a class="nextgo" href="javascript:void();">向后</a>
+                    </div>
+                </div>
+            </div>
+        </div>
 </body>
 </html>

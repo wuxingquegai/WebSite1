@@ -57,9 +57,11 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="css\css.css" />
     <Content Include="drivingservice.aspx" />
     <Content Include="drivingtest.aspx" />
     <Content Include="goeasy.aspx" />
+    <Content Include="goeasytest.aspx" />
     <Content Include="searchservice.aspx" />
     <Content Include="transferservice.aspx" />
     <Content Include="Web.config" />
@@ -85,6 +87,13 @@
     </Compile>
     <Compile Include="goeasy.aspx.designer.cs">
       <DependentUpon>goeasy.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="goeasytest.aspx.cs">
+      <DependentUpon>goeasytest.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="goeasytest.aspx.designer.cs">
+      <DependentUpon>goeasytest.aspx</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="searchservice.aspx.cs">

@@ -1,0 +1,91 @@
+﻿body {padding-top:0px;}
+}
+* A {POSITION: relative}
+#featureContainer {
+	MARGIN: 0px auto;
+	WIDTH: 1100px;
+}
+#wrap {
+	OVERFLOW: hidden
+}
+#feature {
+	POSITION: relative; MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px; 
+}
+#feature .button {
+	POSITION: absolute;
+	WIDTH: 1070px;
+	LEFT: 0px;
+}
+#feature .prevgo {
+	TEXT-INDENT: -9999px;
+	WIDTH: 20px;
+	DISPLAY: block;
+	BACKGROUND: url('../bottomimages/leftbutton.png') center top;
+	FLOAT: left;
+	HEIGHT: 48px;
+	TOP: -120px;
+	POSITION: relative;
+}
+#feature .nextgo {
+	TEXT-INDENT: -9999px;
+	WIDTH: 20px;
+	DISPLAY: block;
+	BACKGROUND: url('../bottomimages/rightbutton.png') center top;
+	FLOAT: right;
+	HEIGHT: 48px;
+	TOP: -120px;
+	POSITION: relative;
+}
+#feature .prev:hover {
+	BACKGROUND-POSITION: center bottom
+}
+#feature .next:hover {
+	BACKGROUND-POSITION: center bottom
+}
+.featureUL {
+	POSITION: relative;
+	LIST-STYLE-TYPE: none;
+	WIDTH: 2800px;
+	FLOAT: left;
+}
+.featureBox {
+	WIDTH: 264px;
+	FLOAT: inherit;
+	HEIGHT: 190px;
+	OVERFLOW: hidden;
+}
+#botton-scroll {
+	Z-INDEX: 0;
+	MARGIN: 10px auto 0px auto;
+	WIDTH: 1100px;
+	FLOAT: left;
+	HEIGHT: 220px;
+}
+#block {
+	Z-INDEX: 0;
+	POSITION: relative;
+	MARGIN: 0px auto;
+	PADDING-LEFT: 0px;
+	WIDTH: 1050px;
+	PADDING-RIGHT: 0px;
+	HEIGHT: 190px;
+	OVERFLOW: hidden;
+}
+#block .box {
+	border-color: #FFFFFF;
+	WIDTH: 257px;
+	FLOAT: left;
+	HEIGHT: 195px;
+	background-color: #FFFFFF;
+	border-right-style: solid;
+	border-right-width: 10px;
+	text-decoration: none;
+}
+#block .box .feature-title {
+	FONT-WEIGHT: normal
+}
+#block .box .feature-thumb {
+	WIDTH: 257px;
+	FLOAT: left;
+	HEIGHT: 190px;
+}
