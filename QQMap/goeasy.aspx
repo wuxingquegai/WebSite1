@@ -12,6 +12,7 @@
     <meta name="keywords" content="企业架构，企业架构，运营架构，EA，云服务平台，云服务平台，微信门户，微信门户，移动业务，移动业务，全流程，全流程，产业链云服务平台，产业链云服务平台，产业链云服务平台">   
     <link href="css/goeasy.css" rel="stylesheet">
     <link href="css/foucs.css" rel="stylesheet">
+
     <script src="images/jquery-1.9.1.min.js" type="text/javascript"></script>
 
     <link rel="stylesheet" type="text/css" href="css/lrtk.css">
@@ -22,6 +23,10 @@
 
 
     <script type="text/javascript" charset="utf-8" src="images/lrscroll.js"></script>
+
+
+
+
     <script type="text/javascript" src="images/jquery.roundabout.min.js"></script>
     <script type="text/javascript" src="images/jquery.easing.1.3.js"></script>
     <script type="text/javascript">
@@ -42,7 +47,7 @@
                 easing: 'easeOutInCirc',
                 duration: 600,
             });
-            $("#btn_1").click(function () {
+          /*  $("#btn_1").click(function () {
                 $("#myul").empty();
                 $("#myul").append('<li><a href="#" target="_blank"><img  src="images/b01.png" alt=""  class="thumb" /></a></li>');
                 $("#myul").append('<li ><a href="#" target="_blank"><img src="images/b02.png" alt=""  class="thumb" /></a></li>');
@@ -56,7 +61,7 @@
                 $("#myul").append('<li><a href="#" target="_blank"><img wi src="images/b10.png" alt=""  class="thumb" /></a></li>');
                 $('#featured-area ul').roundabout({ easing: 'easeOutInCirc', duration: 600, });
             });
-
+*/
 
         });
 
