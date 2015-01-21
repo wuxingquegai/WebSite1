@@ -19,8 +19,21 @@
                     easing: 'easeOutInCirc',
                     duration: 500,
                 });
-         
-
+       /*      $("#btn_1").click(function () {
+             $("#myul").empty();
+             $("#myul").append('<li><a href="#" target="_blank"><img  src="images/b01.png" alt=""  class="thumb" /></a></li>');
+             $("#myul").append('<li ><a href="#" target="_blank"><img src="images/b02.png" alt=""  class="thumb" /></a></li>');
+             $("#myul").append('<li ><a href="#" target="_blank"><img  src="images/b03.png" alt=""  class="thumb" /></a></li>');
+             $("#myul").append('<li><a href="#" target="_blank"><img src="images/b04.png" alt=""  class="thumb" /></a></li>');
+             $("#myul").append('<li><a href="#" target="_blank"><img src="images/b05.png" alt=""  class="thumb" /></a></li>');
+             $("#myul").append('<li><a href="#" target="_blank"><img  src="images/b06.png" alt=""  class="thumb" /></a></li>');
+             $("#myul").append('<li><a href="#" target="_blank"><img  src="images/b07.png" alt=""  class="thumb" /></a></li>');
+             $("#myul").append('<li ><a href="#" target="_blank"><img src="images/b08.png" alt=""  class="thumb" /></a></li>');
+             $("#myul").append('<li><a href="#" target="_blank"><img  src="images/b09.png" alt=""  class="thumb" /></a></li>');
+             $("#myul").append('<li><a href="#" target="_blank"><img wi src="images/b10.png" alt=""  class="thumb" /></a></li>');
+             $('#featured-area ul').roundabout({ easing: 'easeOutInCirc', duration: 600, });
+             });
+       */
             });
 
     </script>
